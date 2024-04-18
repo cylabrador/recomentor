@@ -14,11 +14,12 @@ def recommend_mentors(mentee_df, mentor_df, employee_id):
     for index, row in mentee_data.iterrows():
         skill = row['Skill']
         rating = row['Rating']
+        target = row['Target']  # Added target
 
         # Check if the skill rating allows mentor recommendation
         if rating.lower() in ['below', 'way below']:
             # Find mentors for the skill with proficiency level >= gap
-            mentors_for_skill = mentor_df[(mentor_df['Skill'] == skill)]
+            mentors_for_skill = mentor_df[(mentor_df['Skill'] == skill) & (mentor_df['Proficiency Level'] >= target)]  # Updated filter condition
             if not mentors_for_skill.empty:
                 mentors_for_skill = mentors_for_skill.sort_values(by='Proficiency Level', ascending=False)
                 recommended_mentors[skill] = mentors_for_skill
