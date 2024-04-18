@@ -1,0 +1,26 @@
+Employee ID,Skill,Proficiency Level,Target,Gap,Rating
+123456,Python,2,5,3,Way Below
+123456,SQL,3,5,2,Way Below
+123456,Java,3,2,,Above
+234567,SQL,3,4,1,Below
+234567,Excel,2,5,3,Way Below
+234567,C++,3,2,,Above
+345678,Java,3,2,,Above
+345678,Python,1,1,0,Meets
+456789,Excel,2,5,3,Way Below
+456789,R,2,1,,Above
+456789,SQL,3,3,0,Meets
+567890,Python,2,4,2,Way Below
+567890,Java,4,5,1,Below
+567890,C++,3,2,,Above
+678901,SQL,2,2,0,Meets
+678901,Excel,4,5,1,Below
+678901,R,4,5,1,Below
+789012,C++,2,3,1,Below
+789012,Python,2,4,2,Way Below
+890123,R,1,1,0,Meets
+890123,Excel,1,2,1,Below
+901234,Java,1,2,1,Below
+901234,SQL,3,3,0,Meets
+12345,Excel,5,5,0,Meets
+12345,Python,3,5,2,Way Below

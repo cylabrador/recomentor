@@ -1,0 +1,69 @@
+Employee ID,Skill,Proficiency Level
+111111,Machine Learning,5
+111111,Python,3
+111111,Excel,4
+111111,TensorFlow,4
+222222,DevOps,5
+222222,Kubernetes,3
+222222,Docker,5
+222222,Jenkins,5
+333333,Web Development,3
+333333,React,3
+333333,Angular,3
+444444,Cybersecurity,3
+444444,Ethical Hacking,4
+444444,Penetration Testing,5
+555555,Python,5
+555555,Solidity,5
+555555,Excel,4
+666666,UI/UX Design,5
+666666,Adobe XD,3
+666666,Figma,3
+777777,Project Management,4
+777777,Agile,5
+777777,Scrum,5
+888888,Cloud Computing,3
+888888,AWS,5
+888888,Python,3
+999999,Mobile App Development,5
+999999,Flutter,4
+999999,React Native,5
+294949,Data Engineering,5
+294949,Apache Spark,4
+294949,SQL,5
+111112,SQL,4
+111112,Python,4
+111112,Java,3
+111112,Excel,4
+222223,Python,4
+222223,Excel,4
+222223,R,4
+222223,SQL,4
+333334,Java,4
+333334,SQL,3
+333334,Excel,4
+333334,Python,3
+444445,SQL,3
+444445,Excel,5
+444445,Python,3
+444445,TensorFlow,5
+555556,R,3
+555556,Python,4
+555556,Excel,5
+555556,Java,5
+666667,Java,3
+666667,Excel,4
+666667,Flutter,4
+666667,Python,4
+777778,Excel,5
+777778,Python,4
+777778,SQL,4
+777778,Cybersecurity,3
+888889,Ethical Hacking,4
+888889,SQL,4
+888889,DevOps,5
+888889,Kubernetes,5
+999990,Docker,4
+999990,Data Engineering,4
+999990,SQL,3
+999990,Excel,4
